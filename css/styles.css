@@ -94,11 +94,3 @@ p {
   background: transparent;
 }
 
-.bx {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: clamp(1.5rem, 4vw, 4rem);
-  color: white;
-  opacity: 0.6;
-}
